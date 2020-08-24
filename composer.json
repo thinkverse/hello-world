@@ -1,0 +1,27 @@
+{
+    "name": "thinkverse/hello-world",
+    "description": "Simple Hello World package for PHP 7.3+",
+    "require-dev": {
+        "php": ">=7.3",
+        "phpunit/phpunit": "^9.3",
+        "squizlabs/php_codesniffer": "3.*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "thinkverse",
+            "email": "hallberg.kim@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "autoload": {
+        "psr-4": {
+            "Thinkverse\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    }
+}
