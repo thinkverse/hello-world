@@ -1,6 +1,9 @@
 {
     "name": "thinkverse/hello-world",
     "description": "Simple Hello World package for PHP 7.3+",
+    "require": {
+        "php": ">=7.3"
+    },
     "require-dev": {
         "php": ">=7.3",
         "phpunit/phpunit": "^9.3",
