@@ -2,6 +2,7 @@
 
 Simple Hello World package for PHP 7.3+
 
+[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/thinkverse/hello-world/Unit%20Testing/master)](https://github.com/thinkverse/hello-world/actions) [![Packagist Version](https://img.shields.io/packagist/v/thinkverse/hello-world)](https://packagist.org/packages/thinkverse/hello-world) [![Packagist PHP Version Support](https://img.shields.io/packagist/php-v/thinkverse/hello-world)](https://packagist.org/packages/thinkverse/hello-world) [![GitHub license](https://img.shields.io/github/license/thinkverse/hello-world)](https://github.com/thinkverse/hello-world/blob/master/LICENSE)
 
 ## Installation
 Use the dependancy mananger [composer] to install HelloWorld.
