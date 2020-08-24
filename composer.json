@@ -16,7 +16,6 @@
             "email": "hallberg.kim@gmail.com"
         }
     ],
-    "minimum-stability": "beta",
     "autoload": {
         "psr-4": {
             "Thinkverse\\": "src/"
