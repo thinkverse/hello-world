@@ -7,7 +7,7 @@ Simple Hello World package for PHP 7.3+
 Use the dependancy mananger [composer] to install HelloWorld.
 
 ```bash
-composer require thinkverse/hello-world
+composer require thinkverse/hello-world --prefer-stable
 ```
 
 ## Usage
